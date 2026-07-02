@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AttendanceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InventoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InvoiceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuManagerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiscExpenseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiscExpenseReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NumericTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="PaymentDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PayrollForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PersianDatePopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfitReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PurchaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PurchaseHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettlementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StocktakeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
